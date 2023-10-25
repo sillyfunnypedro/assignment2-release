@@ -1,10 +1,10 @@
-This project was a assignment for CS5500 course, check the [AssignmentBrief.md](https://github.com/AnnabelleAB/assignment2-release/blob/assignment2-release/AssignmentBrief.md) to get more information
+- This project was a assignment for CS5500 course, check the [AssignmentBrief.md](https://github.com/AnnabelleAB/assignment2-release/blob/assignment2-release/AssignmentBrief.md) to get more information
 
-Discovery part: Design, user stories, testing strategy(google doc link)
-The architecture of our new system (lucidcart link)
+- Discovery part: Design, user stories, testing strategy(google doc link)
+- The architecture of our new system (lucidcart link)
  
-Write up three of these bugs in a user story format [ListOfBugs](https://github.com/AnnabelleAB/assignment2-release/blob/assignment2-release/ListOfBugs.md)
-A list of the tests we implemented for the bug we've fixed [test file name](test file link)
+- Write up three of these bugs in a user story format [ListOfBugs](https://github.com/AnnabelleAB/assignment2-release/blob/assignment2-release/ListOfBugs.md)
+- A list of the tests we implemented for the bug we've fixed [test file name](test file link)
 
 # Getting Started with Create React App
 
