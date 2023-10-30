@@ -36,6 +36,11 @@ export interface CellTransportMap {
   [key: string]: CellTransport;
 }
 
+export interface MessageTransport {
+  username: string;
+  content: string;
+  timestamp: Date;
+}
 
 
 export interface DocumentTransport {
@@ -48,5 +53,6 @@ export interface DocumentTransport {
   isEditing: boolean;
   contributingUsers: UserEditing[];
   errorOccurred: string;
+  messages: MessageTransport[];
 }
 
